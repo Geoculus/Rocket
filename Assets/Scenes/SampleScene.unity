@@ -828,6 +828,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Obst
       objectReference: {fileID: 0}
+    - target: {fileID: 9033060655071007476, guid: 8985d5f8100389146809e623c6af52a8, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2455ee37b54d20a4584d42d694b7e8aa, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
