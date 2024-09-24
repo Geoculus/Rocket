@@ -1,0 +1,31 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+
+# Ignore .DS_Store (Mac OS)
+.DS_Store
+
+# Ignore the Library, Temp, Build, and Obj folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+# Ignore the auto-generated user-specific settings
+UserSettings/
+
+# Ignore Unity-generated file on crash reports
+sysinfo.txt
+
+# Builds and WebGL files
+[Bb]uilds/
+[Bb]uild/
+
+# Ignore logs
+*.log
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# OS generated files
+*.DS_Store
+*.swp
